@@ -64,7 +64,7 @@ keywords:
         titles: ["ti:NeRF", "ti:Radiance", "ti:Field", "ti:Gaussian",
                  "ti:Splatting"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
-   "Object Detection & Segmentation":
+    "Object Detection & Segmentation":
         filters: ["Object Detection", "Object Detector", "Object Recognition",
                   "Object Segmentation", "Semantic Segmentation",
                   "Instance Segmentation", "Panoptic Segmentation",
