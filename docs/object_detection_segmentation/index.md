@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.21 - 2026.09.17_
+_Select paper in 2026.07.21 - 2026.09.18_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**DiaVLo: Diagnosing Behaviours of Vision-Language Models**|Lorenzo Corti et.al.|[2609.22008](http://arxiv.org/abs/2609.22008)|N/A|
+|**2026-09-18**|**The Role of Radiometric Features in Cross-Site Leaf-Wood Segmentation of LiDAR Point Clouds**|Roman Kaharlytskyi et.al.|[2609.21903](http://arxiv.org/abs/2609.21903)|N/A|
+|**2026-09-18**|**Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty**|Sarina Penquitt et.al.|[2609.21822](http://arxiv.org/abs/2609.21822)|N/A|
+|**2026-09-18**|**MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention**|Muhammet Sami Yavuz et.al.|[2609.21811](http://arxiv.org/abs/2609.21811)|N/A|
+|**2026-09-18**|**PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection**|Xuanming Shang et.al.|[2609.21780](http://arxiv.org/abs/2609.21780)|N/A|
+|**2026-09-18**|**XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration**|Aurelien Godet et.al.|[2609.21770](http://arxiv.org/abs/2609.21770)|N/A|
+|**2026-09-18**|**Scaling Vision-Language Reward Learning for Robot Manipulation in Parallel Simulation**|Lobna Joualy et.al.|[2609.21767](http://arxiv.org/abs/2609.21767)|N/A|
+|**2026-09-18**|**ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction**|Jinning Liang et.al.|[2609.21755](http://arxiv.org/abs/2609.21755)|N/A|
+|**2026-09-18**|**NeuRIO: A Streaming Neural Estimator for Zero-Shot Sim-to-Real Multi-Robot Relative Inertial Odometry**|Zhehan Li et.al.|[2609.21707](http://arxiv.org/abs/2609.21707)|N/A|
+|**2026-09-18**|**DRT: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning**|Wan Xu et.al.|[2609.21675](http://arxiv.org/abs/2609.21675)|N/A|
 |**2026-09-17**|**SenseFuse: Label-Free Fusion of Image and Shape Encoders for Open-Vocabulary 3D Instance Segmentation**|Euiseok Han et.al.|[2609.20475](http://arxiv.org/abs/2609.20475)|N/A|
 |**2026-09-17**|**Fingerprinting Multimodal Large Language Models**|Chao Huang et.al.|[2609.20457](http://arxiv.org/abs/2609.20457)|N/A|
 |**2026-09-17**|**EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute**|Björn Ellensohn et.al.|[2609.20348](http://arxiv.org/abs/2609.20348)|N/A|
