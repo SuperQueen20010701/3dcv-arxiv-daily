@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.21 - 2026.09.18_
+_Select paper in 2026.07.22 - 2026.09.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning**|Mingke Lu et.al.|[2609.24995](http://arxiv.org/abs/2609.24995)|N/A|
+|**2026-09-21**|**SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models**|Kewei Zhang et.al.|[2609.24875](http://arxiv.org/abs/2609.24875)|N/A|
+|**2026-09-21**|**INTCORT: Training-Free Spatial Reasoning Enhancement for Vision-Language Models via Input Transformations and Confidence Routing**|Haoran Sun et.al.|[2609.24813](http://arxiv.org/abs/2609.24813)|N/A|
+|**2026-09-21**|**Toward a foundation model for forest point clouds**|Yuanwen Yue et.al.|[2609.24787](http://arxiv.org/abs/2609.24787)|N/A|
+|**2026-09-21**|**Understanding Hyperspherical Geometry of ECAPA-TDNN Embedding and Its Impact on Zero-Shot Voice Conversion**|Mathilde Abrassart et.al.|[2609.24688](http://arxiv.org/abs/2609.24688)|N/A|
+|**2026-09-21**|**Beyond Uniform Subspaces: Spectrum-Aware and Depth-Adaptive Fusion for Multi-Task Model Merging**|Ruxi Gu et.al.|[2609.24612](http://arxiv.org/abs/2609.24612)|N/A|
+|**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Débora Oliveira Makowski et.al.|[2609.24576](http://arxiv.org/abs/2609.24576)|N/A|
+|**2026-09-21**|**HyperCLIP++: Fine-tuning CLIP forOpen-vocabulary Semantic Segmentation in Hyperbolic Space**|Zelin Peng et.al.|[2609.24564](http://arxiv.org/abs/2609.24564)|N/A|
+|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|N/A|
+|**2026-09-21**|**DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding**|Xiaoqiang Lu et.al.|[2609.24409](http://arxiv.org/abs/2609.24409)|N/A|
 |**2026-09-18**|**DiaVLo: Diagnosing Behaviours of Vision-Language Models**|Lorenzo Corti et.al.|[2609.22008](http://arxiv.org/abs/2609.22008)|N/A|
 |**2026-09-18**|**The Role of Radiometric Features in Cross-Site Leaf-Wood Segmentation of LiDAR Point Clouds**|Roman Kaharlytskyi et.al.|[2609.21903](http://arxiv.org/abs/2609.21903)|N/A|
 |**2026-09-18**|**Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty**|Sarina Penquitt et.al.|[2609.21822](http://arxiv.org/abs/2609.21822)|N/A|
