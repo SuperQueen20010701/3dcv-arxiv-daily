@@ -12,7 +12,7 @@ layout: default
   <a href="object_detection_segmentation/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">Object Detection & Segmentation</a>
 </div>
 
-## Select paper in 2026.07.22 - 2026.09.21
+## Select paper in 2026.07.23 - 2026.09.22
 
 ## 3D Reconstruction
 
@@ -105,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**DIFTA-3D: Depth-Consistent Instance-Level Feature Transfer and Adaptation of DINOv3 for 3D Detection**|Linman Wang et.al.|[2609.26702](http://arxiv.org/abs/2609.26702)|N/A|
 |**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[2609.24494](http://arxiv.org/abs/2609.24494)|N/A|
 |**2026-09-19**|**Combining Foundation Model Confidence and Monocular Depth for Training-Free Out-of-Distribution Segmentation**|Serin Varghese et.al.|[2609.22896](http://arxiv.org/abs/2609.22896)|N/A|
 |**2026-09-18**|**XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration**|Aurelien Godet et.al.|[2609.21770](http://arxiv.org/abs/2609.21770)|N/A|
@@ -149,6 +150,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|N/A|
+|**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|N/A|
+|**2026-09-22**|**Calibrating Retrieval Geometry: Reliability-Guided Training-Free Aggregation for Visual Place Recognition**|Xin Li et.al.|[2609.25937](http://arxiv.org/abs/2609.25937)|N/A|
+|**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|N/A|
+|**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|N/A|
+|**2026-09-22**|**What Drives Hierarchy-Aware Image Retrieval? Taxonomy Alignment, Objective Choice, and Geometry**|Ling Shi et.al.|[2609.25638](http://arxiv.org/abs/2609.25638)|N/A|
 |**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846](http://arxiv.org/abs/2609.24846)|N/A|
 |**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|N/A|
 |**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|N/A|
@@ -238,7 +245,6 @@ layout: default
 |**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|N/A|
 |**2026-07-24**|**Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping**|Bibhutibhusan Nayak et.al.|[2607.21986](http://arxiv.org/abs/2607.21986)|N/A|
 |**2026-07-23**|**GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition**|Panagiotis Mermigkas et.al.|[2607.21416](http://arxiv.org/abs/2607.21416)|N/A|
-|**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|N/A|
 
 ## Image Matching
 
@@ -264,6 +270,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|N/A|
+|**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|N/A|
+|**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|N/A|
+|**2026-09-22**|**Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising**|Chenxiao Hu et.al.|[2609.25604](http://arxiv.org/abs/2609.25604)|N/A|
+|**2026-09-22**|**Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction**|Wentao Sun et.al.|[2609.25578](http://arxiv.org/abs/2609.25578)|N/A|
 |**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|N/A|
 |**2026-09-20**|**GARO: Geometry-Aware Redundancy Optimization for Real-Time and High-Fidelity Dynamic Gaussian Splatting**|Huiwen Xue et.al.|[2609.23509](http://arxiv.org/abs/2609.23509)|N/A|
 |**2026-09-20**|**Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM**|Rui Zhou et.al.|[2609.23491](http://arxiv.org/abs/2609.23491)|N/A|
@@ -432,6 +443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism**|Christopher Burger et.al.|[2609.26733](http://arxiv.org/abs/2609.26733)|N/A|
+|**2026-09-22**|**MMAP: Multimodal Missing-Aware Pretraining for Longitudinal Alzheimer's Prediction**|Fiona Kekwick et.al.|[2609.26617](http://arxiv.org/abs/2609.26617)|N/A|
+|**2026-09-22**|**Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation**|Thomas Pitts et.al.|[2609.26549](http://arxiv.org/abs/2609.26549)|N/A|
+|**2026-09-22**|**Virtual Encoders in Multimodal Transformers**|Katsuya Ogata et.al.|[2609.26513](http://arxiv.org/abs/2609.26513)|N/A|
+|**2026-09-22**|**Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes**|Jose Moises Araya-Martinez et.al.|[2609.26505](http://arxiv.org/abs/2609.26505)|N/A|
+|**2026-09-22**|**From Token Importance to Conditional Removability: Rethinking Visual Token Pruning in Multimodal Large Language Models**|Shengli He et.al.|[2609.26484](http://arxiv.org/abs/2609.26484)|N/A|
+|**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458](http://arxiv.org/abs/2609.26458)|N/A|
+|**2026-09-22**|**SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation**|Quanhua Chen et.al.|[2609.26408](http://arxiv.org/abs/2609.26408)|N/A|
+|**2026-09-22**|**Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering**|Albert Gassol Puigjaner et.al.|[2609.26360](http://arxiv.org/abs/2609.26360)|N/A|
+|**2026-09-22**|**Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping**|Markus Käppeler et.al.|[2609.26325](http://arxiv.org/abs/2609.26325)|N/A|
 |**2026-09-21**|**MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning**|Mingke Lu et.al.|[2609.24995](http://arxiv.org/abs/2609.24995)|N/A|
 |**2026-09-21**|**SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models**|Kewei Zhang et.al.|[2609.24875](http://arxiv.org/abs/2609.24875)|N/A|
 |**2026-09-21**|**INTCORT: Training-Free Spatial Reasoning Enhancement for Vision-Language Models via Input Transformations and Confidence Routing**|Haoran Sun et.al.|[2609.24813](http://arxiv.org/abs/2609.24813)|N/A|

@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.22 - 2026.09.21_
+_Select paper in 2026.07.23 - 2026.09.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism**|Christopher Burger et.al.|[2609.26733](http://arxiv.org/abs/2609.26733)|N/A|
+|**2026-09-22**|**MMAP: Multimodal Missing-Aware Pretraining for Longitudinal Alzheimer's Prediction**|Fiona Kekwick et.al.|[2609.26617](http://arxiv.org/abs/2609.26617)|N/A|
+|**2026-09-22**|**Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation**|Thomas Pitts et.al.|[2609.26549](http://arxiv.org/abs/2609.26549)|N/A|
+|**2026-09-22**|**Virtual Encoders in Multimodal Transformers**|Katsuya Ogata et.al.|[2609.26513](http://arxiv.org/abs/2609.26513)|N/A|
+|**2026-09-22**|**Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes**|Jose Moises Araya-Martinez et.al.|[2609.26505](http://arxiv.org/abs/2609.26505)|N/A|
+|**2026-09-22**|**From Token Importance to Conditional Removability: Rethinking Visual Token Pruning in Multimodal Large Language Models**|Shengli He et.al.|[2609.26484](http://arxiv.org/abs/2609.26484)|N/A|
+|**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458](http://arxiv.org/abs/2609.26458)|N/A|
+|**2026-09-22**|**SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation**|Quanhua Chen et.al.|[2609.26408](http://arxiv.org/abs/2609.26408)|N/A|
+|**2026-09-22**|**Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering**|Albert Gassol Puigjaner et.al.|[2609.26360](http://arxiv.org/abs/2609.26360)|N/A|
+|**2026-09-22**|**Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping**|Markus Käppeler et.al.|[2609.26325](http://arxiv.org/abs/2609.26325)|N/A|
 |**2026-09-21**|**MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning**|Mingke Lu et.al.|[2609.24995](http://arxiv.org/abs/2609.24995)|N/A|
 |**2026-09-21**|**SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models**|Kewei Zhang et.al.|[2609.24875](http://arxiv.org/abs/2609.24875)|N/A|
 |**2026-09-21**|**INTCORT: Training-Free Spatial Reasoning Enhancement for Vision-Language Models via Input Transformations and Confidence Routing**|Haoran Sun et.al.|[2609.24813](http://arxiv.org/abs/2609.24813)|N/A|
