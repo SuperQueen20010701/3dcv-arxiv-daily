@@ -12,12 +12,13 @@ layout: default
   <a href="object_detection_segmentation/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">Object Detection & Segmentation</a>
 </div>
 
-## Select paper in 2026.07.24 - 2026.09.23
+## Select paper in 2026.07.25 - 2026.09.24
 
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model**|Jerrin Bright et.al.|[2609.29106](http://arxiv.org/abs/2609.29106)|N/A|
 |**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|N/A|
 |**2026-09-21**|**SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction**|Jeffrey Eiyike et.al.|[2609.24864](http://arxiv.org/abs/2609.24864)|N/A|
 |**2026-09-21**|**When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction**|Daisy Li et.al.|[2609.24839](http://arxiv.org/abs/2609.24839)|N/A|
@@ -106,6 +107,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**FounRef: Robust, Structure-Preserving, and Fast Metric Refinement of Frozen Monocular Foundation Priors with Sparse Anchors**|Dan Halperin et.al.|[2609.29224](http://arxiv.org/abs/2609.29224)|N/A|
+|**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|N/A|
 |**2026-09-22**|**DIFTA-3D: Depth-Consistent Instance-Level Feature Transfer and Adaptation of DINOv3 for 3D Detection**|Linman Wang et.al.|[2609.26702](http://arxiv.org/abs/2609.26702)|N/A|
 |**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[2609.24494](http://arxiv.org/abs/2609.24494)|N/A|
 |**2026-09-19**|**Combining Foundation Model Confidence and Monocular Depth for Training-Free Out-of-Distribution Segmentation**|Serin Varghese et.al.|[2609.22896](http://arxiv.org/abs/2609.22896)|N/A|
@@ -143,7 +146,6 @@ layout: default
 |**2026-07-28**|**DVPSFormer: Efficient Online Depth-aware Video Panoptic Segmentation for Autonomous Driving**|Yung-Hsu Yang et.al.|[2607.26165](http://arxiv.org/abs/2607.26165)|N/A|
 |**2026-07-29**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|N/A|
 |**2026-07-27**|**SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation**|Tarun R et.al.|[2607.24249](http://arxiv.org/abs/2607.24249)|N/A|
-|**2026-07-24**|**JustDepth: Real-Time Radar-Camera Depth Estimation with Single-Scan LiDAR Supervision**|Wooyung Yun et.al.|[2607.22172](http://arxiv.org/abs/2607.22172)|N/A|
 
 ## Visual Localization
 
@@ -248,7 +250,6 @@ layout: default
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|N/A|
 |**2026-07-27**|**SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces**|Tianyuan Du et.al.|[2607.23901](http://arxiv.org/abs/2607.23901)|N/A|
 |**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|N/A|
-|**2026-07-24**|**Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping**|Bibhutibhusan Nayak et.al.|[2607.21986](http://arxiv.org/abs/2607.21986)|N/A|
 
 ## Image Matching
 
@@ -274,6 +275,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2609.30245](http://arxiv.org/abs/2609.30245)|N/A|
+|**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|N/A|
+|**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|N/A|
+|**2026-09-24**|**SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting**|Nitya Nanvani et.al.|[2609.29836](http://arxiv.org/abs/2609.29836)|N/A|
+|**2026-09-24**|**Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting**|Krzysztof Pietroszek et.al.|[2609.28997](http://arxiv.org/abs/2609.28997)|N/A|
+|**2026-09-23**|**PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting**|Sungjae Choi et.al.|[2609.28645](http://arxiv.org/abs/2609.28645)|N/A|
 |**2026-09-23**|**GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting**|Haoyuan Yue et.al.|[2609.27264](http://arxiv.org/abs/2609.27264)|N/A|
 |**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|N/A|
 |**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|N/A|
@@ -448,6 +455,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data**|Wenhao Li et.al.|[2609.30238](http://arxiv.org/abs/2609.30238)|N/A|
+|**2026-09-24**|**The Alignment Illusion in Multimodal Large Language Models**|Hong-Han Wang et.al.|[2609.30210](http://arxiv.org/abs/2609.30210)|N/A|
+|**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|N/A|
+|**2026-09-24**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861](http://arxiv.org/abs/2609.29861)|N/A|
+|**2026-09-24**|**C3M: Cross-Session Multimodal Memory Maintenance for Long-Horizon Tasks**|Xueshu Chen et.al.|[2609.29735](http://arxiv.org/abs/2609.29735)|N/A|
+|**2026-09-24**|**A Multimodal Dataset for Survival Prediction in Resected Pancreatic Ductal Adenocarcinoma**|Anh-Tien Nguyen et.al.|[2609.29726](http://arxiv.org/abs/2609.29726)|N/A|
+|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|N/A|
+|**2026-09-24**|**ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models**|Xunkai Li et.al.|[2609.29398](http://arxiv.org/abs/2609.29398)|N/A|
+|**2026-09-24**|**Domain Recentering and Confidence-Weighted Prior Calibration for Vision-Language Models**|Youngeun Seol et.al.|[2609.29358](http://arxiv.org/abs/2609.29358)|N/A|
 |**2026-09-23**|**Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction**|Zilin Fang et.al.|[2609.28467](http://arxiv.org/abs/2609.28467)|N/A|
 |**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360](http://arxiv.org/abs/2609.28360)|N/A|
 |**2026-09-23**|**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**|Arman Taghizadeh et.al.|[2609.28342](http://arxiv.org/abs/2609.28342)|N/A|

@@ -15,10 +15,19 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.24 - 2026.09.23_
+_Select paper in 2026.07.25 - 2026.09.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data**|Wenhao Li et.al.|[2609.30238](http://arxiv.org/abs/2609.30238)|N/A|
+|**2026-09-24**|**The Alignment Illusion in Multimodal Large Language Models**|Hong-Han Wang et.al.|[2609.30210](http://arxiv.org/abs/2609.30210)|N/A|
+|**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|N/A|
+|**2026-09-24**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861](http://arxiv.org/abs/2609.29861)|N/A|
+|**2026-09-24**|**C3M: Cross-Session Multimodal Memory Maintenance for Long-Horizon Tasks**|Xueshu Chen et.al.|[2609.29735](http://arxiv.org/abs/2609.29735)|N/A|
+|**2026-09-24**|**A Multimodal Dataset for Survival Prediction in Resected Pancreatic Ductal Adenocarcinoma**|Anh-Tien Nguyen et.al.|[2609.29726](http://arxiv.org/abs/2609.29726)|N/A|
+|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|N/A|
+|**2026-09-24**|**ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models**|Xunkai Li et.al.|[2609.29398](http://arxiv.org/abs/2609.29398)|N/A|
+|**2026-09-24**|**Domain Recentering and Confidence-Weighted Prior Calibration for Vision-Language Models**|Youngeun Seol et.al.|[2609.29358](http://arxiv.org/abs/2609.29358)|N/A|
 |**2026-09-23**|**Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction**|Zilin Fang et.al.|[2609.28467](http://arxiv.org/abs/2609.28467)|N/A|
 |**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360](http://arxiv.org/abs/2609.28360)|N/A|
 |**2026-09-23**|**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**|Arman Taghizadeh et.al.|[2609.28342](http://arxiv.org/abs/2609.28342)|N/A|
