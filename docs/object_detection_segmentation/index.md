@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.28 - 2026.09.25_
+_Select paper in 2026.07.29 - 2026.09.28_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning**|Ziyao Huang et.al.|[2609.35728](http://arxiv.org/abs/2609.35728)|N/A|
+|**2026-09-28**|**Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement**|Alessandro Rinaldi et.al.|[2609.35725](http://arxiv.org/abs/2609.35725)|N/A|
+|**2026-09-28**|**EdgeVLN: Runtime-Aware Deployment Ready Quantized Vision Language Navigation Model**|Rithvik Jonna et.al.|[2609.35570](http://arxiv.org/abs/2609.35570)|N/A|
+|**2026-09-28**|**One Proposal for Every Margin: Zero-Shot Amortized Sequential Importance Sampling for Binary Matrices**|Ruishuo Chen et.al.|[2609.35514](http://arxiv.org/abs/2609.35514)|N/A|
+|**2026-09-28**|**Structured Latent Modeling for Supervised Multimodal Information Decomposition**|Wanting Huang et.al.|[2609.35502](http://arxiv.org/abs/2609.35502)|N/A|
+|**2026-09-28**|**How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining**|Lin Chen et.al.|[2609.35457](http://arxiv.org/abs/2609.35457)|N/A|
+|**2026-09-28**|**Weighting Schedules Govern What and When Score-Based Generative Models Learn from Multimodal Data**|Jérémie Klinger et.al.|[2609.35322](http://arxiv.org/abs/2609.35322)|N/A|
+|**2026-09-28**|**Beyond Saying Less: Fine-Grained Alignment for Informative and Faithful Vision-Language Models**|Xingming Long et.al.|[2609.35294](http://arxiv.org/abs/2609.35294)|N/A|
+|**2026-09-28**|**Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment**|Shunchang Liu et.al.|[2609.35291](http://arxiv.org/abs/2609.35291)|N/A|
+|**2026-09-28**|**Domain-adaptive Zero-Shot Image Enhancement via Locality-Constrained Diffusion Guidance**|Theresa Neubauer et.al.|[2609.35289](http://arxiv.org/abs/2609.35289)|N/A|
 |**2026-09-25**|**EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models**|Kunxiong Zhu et.al.|[2609.31551](http://arxiv.org/abs/2609.31551)|N/A|
 |**2026-09-25**|**Diagnosing the Sources of Compositional Failure in Vision-Language Models: A Controlled Analysis**|Mona Gandhi et.al.|[2609.31456](http://arxiv.org/abs/2609.31456)|N/A|
 |**2026-09-25**|**ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs**|Junyi Gao et.al.|[2609.31448](http://arxiv.org/abs/2609.31448)|N/A|
