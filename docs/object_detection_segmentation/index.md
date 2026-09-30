@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.29 - 2026.09.28_
+_Select paper in 2026.07.30 - 2026.09.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection**|Taufiq Ahmed et.al.|[2609.38116](http://arxiv.org/abs/2609.38116)|N/A|
+|**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Bingxuan Li et.al.|[2609.38078](http://arxiv.org/abs/2609.38078)|N/A|
+|**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|N/A|
+|**2026-09-29**|**From Unity Simulation to Diffusion-Based Augmentation: Quantifying Dataset Balance for Robust Object Detection**|Mohamed Benkedadra et.al.|[2609.38010](http://arxiv.org/abs/2609.38010)|N/A|
+|**2026-09-29**|**TabFM: A Zero-Shot Foundation Model for Tabular Data**|Weihao Kong et.al.|[2609.37959](http://arxiv.org/abs/2609.37959)|N/A|
+|**2026-09-29**|**EpiCon: Collective Agent Learning through Co-Evolving Multimodal Memory**|Ziyun Zeng et.al.|[2609.37923](http://arxiv.org/abs/2609.37923)|N/A|
+|**2026-09-29**|**ReCAP: Retrieval-Guided Capability Reuse for Multimodal Continual Instruction Tuning**|Tao Hu et.al.|[2609.37889](http://arxiv.org/abs/2609.37889)|N/A|
+|**2026-09-29**|**One Threshold Does Not Fit All Languages: Language-Conditional Deferral for Reliable and Efficient Low-Resource Text Classification**|Bhanu Prakash Vangala et.al.|[2609.37861](http://arxiv.org/abs/2609.37861)|N/A|
+|**2026-09-29**|**Selective Channel Restoration for Backdoored Vision-Language Models**|Shuming Liu et.al.|[2609.37759](http://arxiv.org/abs/2609.37759)|N/A|
+|**2026-09-29**|**Recompositional Robotics: Cross-Domain, Open-set, and Lifelong Modularity Beyond Morphology**|Steven Swanbeck et.al.|[2609.37734](http://arxiv.org/abs/2609.37734)|N/A|
 |**2026-09-28**|**FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning**|Ziyao Huang et.al.|[2609.35728](http://arxiv.org/abs/2609.35728)|N/A|
 |**2026-09-28**|**Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement**|Alessandro Rinaldi et.al.|[2609.35725](http://arxiv.org/abs/2609.35725)|N/A|
 |**2026-09-28**|**EdgeVLN: Runtime-Aware Deployment Ready Quantized Vision Language Navigation Model**|Rithvik Jonna et.al.|[2609.35570](http://arxiv.org/abs/2609.35570)|N/A|
