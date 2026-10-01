@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.07.30 - 2026.09.29_
+_Select paper in 2026.08.01 - 2026.09.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](http://arxiv.org/abs/2609.40362)|N/A|
+|**2026-09-30**|**Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**|Tian Xia et.al.|[2609.40361](http://arxiv.org/abs/2609.40361)|N/A|
+|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325](http://arxiv.org/abs/2609.40325)|N/A|
+|**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Takuhiro Kaneko et.al.|[2609.40087](http://arxiv.org/abs/2609.40087)|N/A|
+|**2026-09-30**|**Can We Anticipate Violence? Multimodal Learning from Pre-Incident Behavioral Cues**|Sindhuja Penchala et.al.|[2609.40014](http://arxiv.org/abs/2609.40014)|N/A|
+|**2026-09-30**|**MCD: Causal Distillation of Multimodal In-Context Learning in Large Vision-Language Models**|Yanshu Li et.al.|[2609.39920](http://arxiv.org/abs/2609.39920)|N/A|
+|**2026-09-30**|**NavHarness: Adaptive Goals for Agentic Vision-Language Navigation**|Haoxiang Shi et.al.|[2609.39915](http://arxiv.org/abs/2609.39915)|N/A|
+|**2026-09-30**|**Spherical Interpolation for Backward-Compatible Multimodal Representations**|Simone Ricci et.al.|[2609.39836](http://arxiv.org/abs/2609.39836)|N/A|
+|**2026-09-30**|**Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision**|Weijian Jian et.al.|[2609.39785](http://arxiv.org/abs/2609.39785)|N/A|
+|**2026-09-30**|**ShieldCLIP: Selective Safety Alignment for Harmful Content Mitigation in Multimodal Foundation Models**|Tobia Poppi et.al.|[2609.39688](http://arxiv.org/abs/2609.39688)|N/A|
 |**2026-09-29**|**GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection**|Taufiq Ahmed et.al.|[2609.38116](http://arxiv.org/abs/2609.38116)|N/A|
 |**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Bingxuan Li et.al.|[2609.38078](http://arxiv.org/abs/2609.38078)|N/A|
 |**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|N/A|
