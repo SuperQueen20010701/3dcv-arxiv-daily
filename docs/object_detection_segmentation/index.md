@@ -15,10 +15,19 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.01 - 2026.09.30_
+_Select paper in 2026.08.02 - 2026.10.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination**|Suyu Ye et.al.|[2610.02170](http://arxiv.org/abs/2610.02170)|N/A|
+|**2026-10-01**|**Harnessing Domain Specialists in Multimodal Mixture-of-Experts for Efficient Adaptation**|Damiano Marsili et.al.|[2610.02123](http://arxiv.org/abs/2610.02123)|N/A|
+|**2026-10-01**|**Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling**|Daniel McBride et.al.|[2610.02081](http://arxiv.org/abs/2610.02081)|N/A|
+|**2026-10-01**|**Foundations without Fundamentals: Zero-Shot Blind Spots in Time Series FMs**|Nafiseh Ghoroghchian et.al.|[2610.02058](http://arxiv.org/abs/2610.02058)|N/A|
+|**2026-10-01**|**SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning**|Si Qi Goh et.al.|[2610.01962](http://arxiv.org/abs/2610.01962)|N/A|
+|**2026-10-01**|**Anti-Persona: Disrupting Unauthorized Identity Binding and Recognition in Personalized Vision--Language Models**|Abhishek Basu et.al.|[2610.01944](http://arxiv.org/abs/2610.01944)|N/A|
+|**2026-10-01**|**TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering**|Yitao Zhang et.al.|[2610.01943](http://arxiv.org/abs/2610.01943)|N/A|
+|**2026-10-01**|**Same Reward, Different Skills: When Multimodal RL Learns to Look**|Haocun Ye et.al.|[2610.01908](http://arxiv.org/abs/2610.01908)|N/A|
+|**2026-10-01**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|N/A|
 |**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](http://arxiv.org/abs/2609.40362)|N/A|
 |**2026-09-30**|**Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**|Tian Xia et.al.|[2609.40361](http://arxiv.org/abs/2609.40361)|N/A|
 |**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325](http://arxiv.org/abs/2609.40325)|N/A|
