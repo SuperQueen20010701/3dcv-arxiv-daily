@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.04 - 2026.10.01_
+_Select paper in 2026.08.05 - 2026.10.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars**|Antonio Canela et.al.|[2610.03599](http://arxiv.org/abs/2610.03599)|N/A|
+|**2026-10-02**|**HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents**|Alham Fikri Aji et.al.|[2610.03574](http://arxiv.org/abs/2610.03574)|N/A|
+|**2026-10-02**|**ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models**|Yubo Wang et.al.|[2610.03546](http://arxiv.org/abs/2610.03546)|N/A|
+|**2026-10-02**|**A Vision-Language Model (VLM)-based Pipeline for End-to-End Procedural Modeling of Field-Grown Maize from Point Clouds**|Mozhgan Hadadi et.al.|[2610.03468](http://arxiv.org/abs/2610.03468)|N/A|
+|**2026-10-02**|**Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally**|Arun Josephraj Arokiaraj et.al.|[2610.03445](http://arxiv.org/abs/2610.03445)|N/A|
+|**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|N/A|
+|**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403](http://arxiv.org/abs/2610.03403)|N/A|
+|**2026-10-02**|**From Patching to Pruning Visual Computation in Vision Language Models**|Rahul Chowdhury et.al.|[2610.03389](http://arxiv.org/abs/2610.03389)|N/A|
+|**2026-10-02**|**A Fully Automatic Pipeline for 3D Dendrite Instance Segmentation in SBF-SEM**|Zewen Zhuo et.al.|[2610.03332](http://arxiv.org/abs/2610.03332)|N/A|
+|**2026-10-02**|**Multi-Task Evolution for Zero-Shot Cross-Problem Generalization using LLMs**|Zhouliang Xie et.al.|[2610.03316](http://arxiv.org/abs/2610.03316)|N/A|
 |**2026-10-01**|**Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination**|Suyu Ye et.al.|[2610.02170](http://arxiv.org/abs/2610.02170)|N/A|
 |**2026-10-01**|**Harnessing Domain Specialists in Multimodal Mixture-of-Experts for Efficient Adaptation**|Damiano Marsili et.al.|[2610.02123](http://arxiv.org/abs/2610.02123)|N/A|
 |**2026-10-01**|**Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling**|Daniel McBride et.al.|[2610.02081](http://arxiv.org/abs/2610.02081)|N/A|
