@@ -15,10 +15,18 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.05 - 2026.10.02_
+_Select paper in 2026.08.06 - 2026.10.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents**|Haozhen Zhang et.al.|[2610.06830](http://arxiv.org/abs/2610.06830)|N/A|
+|**2026-10-05**|**Large Language Model-Guided Discovery of Weight-Five Bivariate Bicycle Codes**|Juan Cruz-Benito et.al.|[2610.06623](http://arxiv.org/abs/2610.06623)|N/A|
+|**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|N/A|
+|**2026-10-05**|**MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation**|Jincheng Wang et.al.|[2610.06510](http://arxiv.org/abs/2610.06510)|N/A|
+|**2026-10-05**|**Multimodal Safety Evaluation Should Measure Controllability Beyond Classification**|Junhyeong Park et.al.|[2610.06452](http://arxiv.org/abs/2610.06452)|N/A|
+|**2026-10-05**|**MTOR: Generalizable AI-Generated Video Detection with Multimodal Semantics and Temporal Over-Regularity**|Hang Wang et.al.|[2610.06378](http://arxiv.org/abs/2610.06378)|N/A|
+|**2026-10-05**|**Multimodal Deep Survival Analysis for Sinkhole Susceptibility**|Lucas Yuan et.al.|[2610.06365](http://arxiv.org/abs/2610.06365)|N/A|
+|**2026-10-05**|**Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies**|Shaohan Jiang et.al.|[2610.06235](http://arxiv.org/abs/2610.06235)|N/A|
 |**2026-10-02**|**ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars**|Antonio Canela et.al.|[2610.03599](http://arxiv.org/abs/2610.03599)|N/A|
 |**2026-10-02**|**HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents**|Alham Fikri Aji et.al.|[2610.03574](http://arxiv.org/abs/2610.03574)|N/A|
 |**2026-10-02**|**ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models**|Yubo Wang et.al.|[2610.03546](http://arxiv.org/abs/2610.03546)|N/A|
