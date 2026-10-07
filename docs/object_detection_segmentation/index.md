@@ -15,10 +15,19 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.06 - 2026.10.05_
+_Select paper in 2026.08.07 - 2026.10.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|N/A|
+|**2026-10-06**|**A Swarm-Coordinated Multi-Robot System for Early Stress Detection in Agricultural Rows Using Multimodal Leaf Sensing**|Rishi Gupta et.al.|[2610.08603](http://arxiv.org/abs/2610.08603)|N/A|
+|**2026-10-06**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Lei Yang et.al.|[2610.08573](http://arxiv.org/abs/2610.08573)|N/A|
+|**2026-10-06**|**Beyond Perturbation Magnitude: Direction-Dependent Responses in Multimodal Geometric Representations**|Yongsheng Luo et.al.|[2610.08533](http://arxiv.org/abs/2610.08533)|N/A|
+|**2026-10-06**|**AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly**|Zhiyuan Qi et.al.|[2610.08446](http://arxiv.org/abs/2610.08446)|N/A|
+|**2026-10-06**|**GeoPID: Decomposing and Steering Visual Information in Vision-Language Models**|Seulgi Kim et.al.|[2610.08401](http://arxiv.org/abs/2610.08401)|N/A|
+|**2026-10-06**|**Event-Driven Proactive Robot Assistance through Vision-Language Reasoning**|Fengkai Liu et.al.|[2610.08344](http://arxiv.org/abs/2610.08344)|N/A|
+|**2026-10-06**|**DIPrune: Task-Aware Token Pruning with Dual Importance for Efficient Multimodal Language Models**|Shuo Yang et.al.|[2610.08341](http://arxiv.org/abs/2610.08341)|N/A|
+|**2026-10-06**|**Quantum Entangled Multimodal Fusion Networks (QEMFN): Resource-Aware Hybrid Vision-Language Fusion via Trainable Entanglement**|Srikar Alla et.al.|[2610.08216](http://arxiv.org/abs/2610.08216)|N/A|
 |**2026-10-05**|**MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents**|Haozhen Zhang et.al.|[2610.06830](http://arxiv.org/abs/2610.06830)|N/A|
 |**2026-10-05**|**Large Language Model-Guided Discovery of Weight-Five Bivariate Bicycle Codes**|Juan Cruz-Benito et.al.|[2610.06623](http://arxiv.org/abs/2610.06623)|N/A|
 |**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|N/A|
