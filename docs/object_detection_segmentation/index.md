@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.07 - 2026.10.06_
+_Select paper in 2026.08.08 - 2026.10.07_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**|Shravan Chaudhari et.al.|[2610.10538](http://arxiv.org/abs/2610.10538)|N/A|
+|**2026-10-07**|**MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening**|Duy-Cat Can et.al.|[2610.10448](http://arxiv.org/abs/2610.10448)|N/A|
+|**2026-10-07**|**Detecting Adversarial Images through Response Profiles of Vision-Language Models**|Arash Vashagh et.al.|[2610.10436](http://arxiv.org/abs/2610.10436)|N/A|
+|**2026-10-07**|**AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation**|Zhenxuan Zeng et.al.|[2610.10421](http://arxiv.org/abs/2610.10421)|N/A|
+|**2026-10-07**|**RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments**|Zhiqin Yang et.al.|[2610.10409](http://arxiv.org/abs/2610.10409)|N/A|
+|**2026-10-07**|**Self-correction Optimization for Interleaved Multimodal Generation**|Xin You et.al.|[2610.10400](http://arxiv.org/abs/2610.10400)|N/A|
+|**2026-10-07**|**From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification**|Yue Qiu et.al.|[2610.10227](http://arxiv.org/abs/2610.10227)|N/A|
+|**2026-10-07**|**HarnessIR: Harnessing Multimodal Foundation Models for Universal Real-World Image Restoration**|Xiangtao Kong et.al.|[2610.10133](http://arxiv.org/abs/2610.10133)|N/A|
+|**2026-10-07**|**Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions**|Bojun Yang et.al.|[2610.09941](http://arxiv.org/abs/2610.09941)|N/A|
+|**2026-10-07**|**FedSSMCoOp: SSM Encoders for light-weight Federated Prompt Learning for Few-shot Classification**|Ankita Das et.al.|[2610.09907](http://arxiv.org/abs/2610.09907)|N/A|
 |**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|N/A|
 |**2026-10-06**|**A Swarm-Coordinated Multi-Robot System for Early Stress Detection in Agricultural Rows Using Multimodal Leaf Sensing**|Rishi Gupta et.al.|[2610.08603](http://arxiv.org/abs/2610.08603)|N/A|
 |**2026-10-06**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Lei Yang et.al.|[2610.08573](http://arxiv.org/abs/2610.08573)|N/A|
