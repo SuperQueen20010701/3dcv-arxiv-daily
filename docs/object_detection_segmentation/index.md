@@ -15,10 +15,19 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.08 - 2026.10.07_
+_Select paper in 2026.08.09 - 2026.10.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video**|Hongyu Li et.al.|[2610.12419](http://arxiv.org/abs/2610.12419)|N/A|
+|**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|N/A|
+|**2026-10-08**|**HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling**|Qun Dai et.al.|[2610.12393](http://arxiv.org/abs/2610.12393)|N/A|
+|**2026-10-08**|**GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving**|Jialu Wang et.al.|[2610.12391](http://arxiv.org/abs/2610.12391)|N/A|
+|**2026-10-08**|**Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search**|Ziming Dai et.al.|[2610.12390](http://arxiv.org/abs/2610.12390)|N/A|
+|**2026-10-08**|**Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models**|Hongxing Li et.al.|[2610.12355](http://arxiv.org/abs/2610.12355)|N/A|
+|**2026-10-08**|**EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams**|Heeseung Kim et.al.|[2610.12248](http://arxiv.org/abs/2610.12248)|N/A|
+|**2026-10-08**|**From Language to Motion: Task-Conditioned Focal-Stack Trajectory Integration for Microscopic Robots**|Junjie Xie et.al.|[2610.12241](http://arxiv.org/abs/2610.12241)|N/A|
+|**2026-10-08**|**OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression**|Sixu Chen et.al.|[2610.12134](http://arxiv.org/abs/2610.12134)|N/A|
 |**2026-10-07**|**Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**|Shravan Chaudhari et.al.|[2610.10538](http://arxiv.org/abs/2610.10538)|N/A|
 |**2026-10-07**|**MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening**|Duy-Cat Can et.al.|[2610.10448](http://arxiv.org/abs/2610.10448)|N/A|
 |**2026-10-07**|**Detecting Adversarial Images through Response Profiles of Vision-Language Models**|Arash Vashagh et.al.|[2610.10436](http://arxiv.org/abs/2610.10436)|N/A|
