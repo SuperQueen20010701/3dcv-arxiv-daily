@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.11 - 2026.10.08_
+_Select paper in 2026.08.12 - 2026.10.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|N/A|
+|**2026-10-09**|**UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes**|Nazar Andrushko et.al.|[2610.13783](http://arxiv.org/abs/2610.13783)|N/A|
+|**2026-10-09**|**SeoulMMOD: A Large-Scale Multimodal Origin-Destination Flow Benchmark**|Taeyoung Yu et.al.|[2610.13730](http://arxiv.org/abs/2610.13730)|N/A|
+|**2026-10-09**|**CUBE: Class-conditioned Unknown Boundary Evidence for Open-Set Insect Species Recognition**|Hao Tan et.al.|[2610.13610](http://arxiv.org/abs/2610.13610)|N/A|
+|**2026-10-09**|**S-Space: Exploring Spatial Workspace in Multimodal Language Models**|Zhiyuan Shi et.al.|[2610.13527](http://arxiv.org/abs/2610.13527)|N/A|
+|**2026-10-09**|**Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis**|Hamza Shafiq et.al.|[2610.13510](http://arxiv.org/abs/2610.13510)|N/A|
+|**2026-10-09**|**PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation**|Chuxuan Huang et.al.|[2610.13373](http://arxiv.org/abs/2610.13373)|N/A|
+|**2026-10-09**|**MHR-Router: Multimodal Heterogeneous Retrieval-Enhanced Adaptive Routing for VLM Inference**|Wenjuan Zhu et.al.|[2610.13278](http://arxiv.org/abs/2610.13278)|N/A|
+|**2026-10-09**|**Jag: Direct Box Prediction for Efficient Visual Grounding**|Xiuyuan Zhu et.al.|[2610.13239](http://arxiv.org/abs/2610.13239)|N/A|
+|**2026-10-09**|**Complexity-Calibrated Reconstruction Discrepancy for No-Reference Point Cloud Quality Assessment**|Haocheng Wu et.al.|[2610.13219](http://arxiv.org/abs/2610.13219)|N/A|
 |**2026-10-08**|**OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video**|Hongyu Li et.al.|[2610.12419](http://arxiv.org/abs/2610.12419)|N/A|
 |**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|N/A|
 |**2026-10-08**|**HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling**|Qun Dai et.al.|[2610.12393](http://arxiv.org/abs/2610.12393)|N/A|
