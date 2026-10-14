@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.13 - 2026.10.09_
+_Select paper in 2026.08.14 - 2026.10.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs**|Aimon Rahman et.al.|[2610.18858](http://arxiv.org/abs/2610.18858)|N/A|
+|**2026-10-13**|**Context-aware Bayesian Fusion for Multimodal Object Detection**|Arunachalam Venkatachalam et.al.|[2610.18741](http://arxiv.org/abs/2610.18741)|N/A|
+|**2026-10-13**|**SP $^2$ ec: Adaptive Self-Speculative Decoding for Vision-Language Models**|Yuqi Huang et.al.|[2610.18735](http://arxiv.org/abs/2610.18735)|N/A|
+|**2026-10-13**|**GeoReader: Learning Latent Geometry for Spatial Reasoning in Vision-Language Models**|Rong Li et.al.|[2610.18694](http://arxiv.org/abs/2610.18694)|N/A|
+|**2026-10-13**|**DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization**|Chengtao Jian et.al.|[2610.18609](http://arxiv.org/abs/2610.18609)|N/A|
+|**2026-10-13**|**Rethinking Projector Training in Multimodal LLMs**|Fabian Gröger et.al.|[2610.18598](http://arxiv.org/abs/2610.18598)|N/A|
+|**2026-10-13**|**MemoryVLN: From Ego-Aware Memory Representation to Cross-Context Memory Reuse in Vision-Language Navigation**|Xueyao Wei et.al.|[2610.18478](http://arxiv.org/abs/2610.18478)|N/A|
+|**2026-10-13**|**Teacher-Guided Tool Learning for Small Language Models via Bidirectional KL Constraints**|Haoxuan Gao et.al.|[2610.18459](http://arxiv.org/abs/2610.18459)|N/A|
+|**2026-10-13**|**Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence**| Thinker Team et.al.|[2610.18447](http://arxiv.org/abs/2610.18447)|N/A|
+|**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|N/A|
 |**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|N/A|
 |**2026-10-09**|**UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes**|Nazar Andrushko et.al.|[2610.13783](http://arxiv.org/abs/2610.13783)|N/A|
 |**2026-10-09**|**SeoulMMOD: A Large-Scale Multimodal Origin-Destination Flow Benchmark**|Taeyoung Yu et.al.|[2610.13730](http://arxiv.org/abs/2610.13730)|N/A|
