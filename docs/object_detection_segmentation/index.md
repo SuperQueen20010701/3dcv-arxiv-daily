@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.14 - 2026.10.13_
+_Select paper in 2026.08.15 - 2026.10.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Reliability-Aware Multimodal Sentiment Prediction Under Local Modality Missingness**|Minghao Kong et.al.|[2610.20543](http://arxiv.org/abs/2610.20543)|N/A|
+|**2026-10-14**|**PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis**|Qiushi Sun et.al.|[2610.20538](http://arxiv.org/abs/2610.20538)|N/A|
+|**2026-10-14**|**Hybrid supervised instance segmentation by learning label noise suppression**|Linwei Chen et.al.|[2610.20412](http://arxiv.org/abs/2610.20412)|N/A|
+|**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[2610.20388](http://arxiv.org/abs/2610.20388)|N/A|
+|**2026-10-14**|**ReferFlow: Beyond Final-Target Localization for Complex Referring Expressions**|Tianyi Gao et.al.|[2610.20352](http://arxiv.org/abs/2610.20352)|N/A|
+|**2026-10-14**|**Learning Navigation from Multimodal Demonstrations with Geometric Candidate Modes**|Chengyang Peng et.al.|[2610.20241](http://arxiv.org/abs/2610.20241)|N/A|
+|**2026-10-14**|**Seeing at the Edge: Energy Characterization of Vision-Language Model Inference on Edge Platforms**|Junlin Liao et.al.|[2610.20136](http://arxiv.org/abs/2610.20136)|N/A|
+|**2026-10-14**|**ChemArgus: Automated Scientific Diagnostics for Lab-Grade Multimodal Chemistry Reasoning: A Frontier Benchmark**|Hanyao Guo et.al.|[2610.20012](http://arxiv.org/abs/2610.20012)|N/A|
+|**2026-10-14**|**Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Pattern Tasks**|Mario Mallea et.al.|[2610.19997](http://arxiv.org/abs/2610.19997)|N/A|
+|**2026-10-14**|**Quantifying Annotation Agreement in Object Detection with Optimal Transport**|Kirill Prokhorov et.al.|[2610.19912](http://arxiv.org/abs/2610.19912)|N/A|
 |**2026-10-13**|**Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs**|Aimon Rahman et.al.|[2610.18858](http://arxiv.org/abs/2610.18858)|N/A|
 |**2026-10-13**|**Context-aware Bayesian Fusion for Multimodal Object Detection**|Arunachalam Venkatachalam et.al.|[2610.18741](http://arxiv.org/abs/2610.18741)|N/A|
 |**2026-10-13**|**SP $^2$ ec: Adaptive Self-Speculative Decoding for Vision-Language Models**|Yuqi Huang et.al.|[2610.18735](http://arxiv.org/abs/2610.18735)|N/A|
