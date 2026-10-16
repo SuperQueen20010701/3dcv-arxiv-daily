@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.15 - 2026.10.14_
+_Select paper in 2026.08.16 - 2026.10.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Han Su et.al.|[2610.22356](http://arxiv.org/abs/2610.22356)|N/A|
+|**2026-10-15**|**MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents**|Huanyao Zhang et.al.|[2610.22240](http://arxiv.org/abs/2610.22240)|N/A|
+|**2026-10-15**|**Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models**|Yuqi Xiong et.al.|[2610.22217](http://arxiv.org/abs/2610.22217)|N/A|
+|**2026-10-15**|**LAMP: Layerwise Adaptive Mixing of Predictors for Training-Free Few-Shot Vision-Language Adaptation**|Zhipeng Ye et.al.|[2610.22182](http://arxiv.org/abs/2610.22182)|N/A|
+|**2026-10-15**|**CART: Compatible Routing for Multimodal Continual Instruction Tuning**|Ling-Xiang Zhang et.al.|[2610.22137](http://arxiv.org/abs/2610.22137)|N/A|
+|**2026-10-15**|**Retrofitting Recurrent Vision-Language Models from Pretrained Backbones**|Madhav Iyengar et.al.|[2610.22075](http://arxiv.org/abs/2610.22075)|N/A|
+|**2026-10-15**|**When Reasoning Is Not Enough: Proactive Inquiry for Cross-Modal Safety in Multimodal Large Language Models**|Wei Cai et.al.|[2610.22068](http://arxiv.org/abs/2610.22068)|N/A|
+|**2026-10-15**|**Decoding Naturalistic Speech from fMRI with Temporal Modeling and Multimodal Alignment**|Corentin Caris et.al.|[2610.22049](http://arxiv.org/abs/2610.22049)|N/A|
+|**2026-10-15**|**Visual Sanad: Auditing Vision-Language Models for False Acceptance of Qur'anic Citations**|Niaz Mohaiman Abtahi et.al.|[2610.22009](http://arxiv.org/abs/2610.22009)|N/A|
+|**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|N/A|
 |**2026-10-14**|**Reliability-Aware Multimodal Sentiment Prediction Under Local Modality Missingness**|Minghao Kong et.al.|[2610.20543](http://arxiv.org/abs/2610.20543)|N/A|
 |**2026-10-14**|**PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis**|Qiushi Sun et.al.|[2610.20538](http://arxiv.org/abs/2610.20538)|N/A|
 |**2026-10-14**|**Hybrid supervised instance segmentation by learning label noise suppression**|Linwei Chen et.al.|[2610.20412](http://arxiv.org/abs/2610.20412)|N/A|
