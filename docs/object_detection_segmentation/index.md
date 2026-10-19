@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.18 - 2026.10.15_
+_Select paper in 2026.08.19 - 2026.10.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**MOSS: Multimodal Origami Swamp Robot System**|T. Lan et.al.|[2610.23813](http://arxiv.org/abs/2610.23813)|N/A|
+|**2026-10-16**|**FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization**|Syed Md. Ahnaf Hasan et.al.|[2610.23705](http://arxiv.org/abs/2610.23705)|N/A|
+|**2026-10-16**|**FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity**|Yiqun Zhao et.al.|[2610.23659](http://arxiv.org/abs/2610.23659)|N/A|
+|**2026-10-16**|**Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models**|Hsin-Ling Hsu et.al.|[2610.23610](http://arxiv.org/abs/2610.23610)|N/A|
+|**2026-10-16**|**ADA 2025: A Multimodal Dataset for Water-Deficit Stress Detection in Sugar Beets**|Piper Powell et.al.|[2610.23609](http://arxiv.org/abs/2610.23609)|N/A|
+|**2026-10-16**|**HydraLLM: Adaptive Width Slicing for Elastic Text and Vision-Language Models**|Oscar Kemme et.al.|[2610.23455](http://arxiv.org/abs/2610.23455)|N/A|
+|**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo et.al.|[2610.23419](http://arxiv.org/abs/2610.23419)|N/A|
+|**2026-10-16**|**FloodVLM-Pix: Language-Guided Pixel-Level Flood Understanding**|Chengyang Zhang et.al.|[2610.23377](http://arxiv.org/abs/2610.23377)|N/A|
+|**2026-10-16**|**CatchUp: Depth-Aware Re-Admission of Visual Tokens for Efficient Large Vision-Language Models**|Eunju Park et.al.|[2610.23324](http://arxiv.org/abs/2610.23324)|N/A|
+|**2026-10-16**|**Beyond Reward Scoring: Online Multi-Agent Preference Learning for Multimodal Response Generation**|Ziyun Zou et.al.|[2610.23256](http://arxiv.org/abs/2610.23256)|N/A|
 |**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Han Su et.al.|[2610.22356](http://arxiv.org/abs/2610.22356)|N/A|
 |**2026-10-15**|**MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents**|Huanyao Zhang et.al.|[2610.22240](http://arxiv.org/abs/2610.22240)|N/A|
 |**2026-10-15**|**Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models**|Yuqi Xiong et.al.|[2610.22217](http://arxiv.org/abs/2610.22217)|N/A|

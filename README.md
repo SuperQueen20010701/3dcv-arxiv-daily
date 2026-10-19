@@ -1,4 +1,4 @@
-## Select paper in 2026.08.18 - 2026.10.15
+## Select paper in 2026.08.19 - 2026.10.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction**|Zhoufeng Xie et.al.|[2610.23250](http://arxiv.org/abs/2610.23250)|N/A|
 |**2026-10-15**|**Motion- and Gravity-Aware Feedforward 3D Reconstruction**|Shiyao Qian et.al.|[2610.22177](http://arxiv.org/abs/2610.22177)|N/A|
 |**2026-10-15**|**GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama**|Jing OU et.al.|[2610.21297](http://arxiv.org/abs/2610.21297)|N/A|
 |**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|N/A|
@@ -122,15 +123,14 @@
 |**2026-08-21**|**3D Point Cloud from Close-Range Photogrammetry for Defect Characterisation of Rubberised Concrete**|Jiacheng Liu et.al.|[2608.21468](http://arxiv.org/abs/2608.21468)|N/A|
 |**2026-08-21**|**VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds**|Shania Guo et.al.|[2608.20740](http://arxiv.org/abs/2608.20740)|N/A|
 |**2026-08-19**|**USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes**|Li-Heng Chen et.al.|[2608.19036](http://arxiv.org/abs/2608.19036)|N/A|
-|**2026-08-18**|**GeoWeaver: Accurate Long-Sequence 3D Reconstruction via Hierarchical Geometric Assembly**|Tinghao Jiang et.al.|[2608.17389](http://arxiv.org/abs/2608.17389)|N/A|
-|**2026-08-18**|**UniQuery4R: Unified 4D Scene Reconstruction from a Single Query**|Tiancheng Chen et.al.|[2608.17283](http://arxiv.org/abs/2608.17283)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260818---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260819---20261016>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600](http://arxiv.org/abs/2610.23600)|N/A|
 |**2026-10-12**|**The Midas Touch for Metric Depth: Interpretable Metricization for Generalizable Depth Perception**|Mengtan Zhang et.al.|[2610.16749](http://arxiv.org/abs/2610.16749)|N/A|
 |**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|N/A|
 |**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|N/A|
@@ -173,12 +173,15 @@
 |**2026-08-25**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
 |**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260818---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260819---20261016>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Haorui Du et.al.|[2610.23496](http://arxiv.org/abs/2610.23496)|N/A|
+|**2026-10-15**|**RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar**|Jan Steckel et.al.|[2610.22552](http://arxiv.org/abs/2610.22552)|N/A|
+|**2026-10-15**|**KFS $^4$ LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505](http://arxiv.org/abs/2610.22505)|N/A|
 |**2026-10-15**|**LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation**|Shiqi Che et.al.|[2610.21199](http://arxiv.org/abs/2610.21199)|N/A|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|N/A|
 |**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|N/A|
@@ -277,10 +280,8 @@
 |**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289](http://arxiv.org/abs/2608.22289)|N/A|
 |**2026-08-19**|**Composed Historical Image Retrieval by Modeling Temporal Representations**|Adrià Molina Rodríguez et.al.|[2608.18694](http://arxiv.org/abs/2608.18694)|N/A|
 |**2026-08-24**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|N/A|
-|**2026-08-18**|**Scalix: Uncertainty-Aware Scale-Consistent Monocular SLAM**|Sebastian Barbas Laina et.al.|[2608.17553](http://arxiv.org/abs/2608.17553)|N/A|
-|**2026-08-18**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260818---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260819---20261016>back to top</a>)</p>
 
 ## Image Matching
 
@@ -302,12 +303,16 @@
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260818---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260819---20261016>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Wangze Xu et.al.|[2610.23237](http://arxiv.org/abs/2610.23237)|N/A|
+|**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039](http://arxiv.org/abs/2610.23039)|N/A|
+|**2026-10-16**|**Direct Conditional Parameterization for N-Dimensional Splatting**|Zhongpai Gao et.al.|[2610.22778](http://arxiv.org/abs/2610.22778)|N/A|
+|**2026-10-15**|**KFS $^4$ LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505](http://arxiv.org/abs/2610.22505)|N/A|
 |**2026-10-15**|**Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation**|Sheng Ye et.al.|[2610.21634](http://arxiv.org/abs/2610.21634)|N/A|
 |**2026-10-15**|**Training-Free Target-Aware Refinement of 3D Gaussian Language Map**|Sibaek Lee et.al.|[2610.21619](http://arxiv.org/abs/2610.21619)|N/A|
 |**2026-10-15**|**ResStreamGS: Residual-Sensitive Dual-Stream Gaussian Splatting for Mobile Volumetric Video Streaming**|Haoran Liu et.al.|[2610.21121](http://arxiv.org/abs/2610.21121)|N/A|
@@ -507,17 +512,23 @@
 |**2026-08-19**|**GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting**|Yechan Park et.al.|[2608.19066](http://arxiv.org/abs/2608.19066)|N/A|
 |**2026-08-19**|**CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction**|Shihan Chen et.al.|[2608.18413](http://arxiv.org/abs/2608.18413)|N/A|
 |**2026-08-20**|**Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting**|Jiaming Fan et.al.|[2608.18388](http://arxiv.org/abs/2608.18388)|N/A|
-|**2026-08-18**|**QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting**|Vu Trung Nghia Nguyen et.al.|[2608.18285](http://arxiv.org/abs/2608.18285)|N/A|
-|**2026-08-18**|**GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting**|Qijian Tian et.al.|[2608.17535](http://arxiv.org/abs/2608.17535)|N/A|
-|**2026-08-18**|**NGS-Marker: Robust Native Watermarking for 3D Gaussian Splatting**|Hao Qin et.al.|[2608.17447](http://arxiv.org/abs/2608.17447)|N/A|
-|**2026-08-18**|**3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation**|Laurent Vit et.al.|[2608.17298](http://arxiv.org/abs/2608.17298)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260818---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260819---20261016>back to top</a>)</p>
 
 ## Object Detection & Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**MOSS: Multimodal Origami Swamp Robot System**|T. Lan et.al.|[2610.23813](http://arxiv.org/abs/2610.23813)|N/A|
+|**2026-10-16**|**FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization**|Syed Md. Ahnaf Hasan et.al.|[2610.23705](http://arxiv.org/abs/2610.23705)|N/A|
+|**2026-10-16**|**FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity**|Yiqun Zhao et.al.|[2610.23659](http://arxiv.org/abs/2610.23659)|N/A|
+|**2026-10-16**|**Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models**|Hsin-Ling Hsu et.al.|[2610.23610](http://arxiv.org/abs/2610.23610)|N/A|
+|**2026-10-16**|**ADA 2025: A Multimodal Dataset for Water-Deficit Stress Detection in Sugar Beets**|Piper Powell et.al.|[2610.23609](http://arxiv.org/abs/2610.23609)|N/A|
+|**2026-10-16**|**HydraLLM: Adaptive Width Slicing for Elastic Text and Vision-Language Models**|Oscar Kemme et.al.|[2610.23455](http://arxiv.org/abs/2610.23455)|N/A|
+|**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo et.al.|[2610.23419](http://arxiv.org/abs/2610.23419)|N/A|
+|**2026-10-16**|**FloodVLM-Pix: Language-Guided Pixel-Level Flood Understanding**|Chengyang Zhang et.al.|[2610.23377](http://arxiv.org/abs/2610.23377)|N/A|
+|**2026-10-16**|**CatchUp: Depth-Aware Re-Admission of Visual Tokens for Efficient Large Vision-Language Models**|Eunju Park et.al.|[2610.23324](http://arxiv.org/abs/2610.23324)|N/A|
+|**2026-10-16**|**Beyond Reward Scoring: Online Multi-Agent Preference Learning for Multimodal Response Generation**|Ziyun Zou et.al.|[2610.23256](http://arxiv.org/abs/2610.23256)|N/A|
 |**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Han Su et.al.|[2610.22356](http://arxiv.org/abs/2610.22356)|N/A|
 |**2026-10-15**|**MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents**|Huanyao Zhang et.al.|[2610.22240](http://arxiv.org/abs/2610.22240)|N/A|
 |**2026-10-15**|**Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models**|Yuqi Xiong et.al.|[2610.22217](http://arxiv.org/abs/2610.22217)|N/A|
@@ -731,7 +742,7 @@
 |**2026-09-15**|**RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views**|Yunxiang Zhang et.al.|[2609.16936](http://arxiv.org/abs/2609.16936)|N/A|
 |**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](http://arxiv.org/abs/2609.16934)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260818---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260819---20261016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
