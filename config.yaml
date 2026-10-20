@@ -65,62 +65,22 @@ keywords:
                  "ti:Splatting"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Object Detection & Segmentation":
-        titles: ["ti:Object Detection", "ti:Object Detector", "ti:Object Recognition",
+        filters: ["Robot Perception", "Robotic Perception",
+                  "Embodied Perception", "Robot Manipulation",
+                  "Foundation Model", "Open-Vocabulary",
+                  "Segment Anything", "Grounding DINO"]
+    
+        titles: ["ti:Object Detection", "ti:Object Recognition",
                  "ti:Object Segmentation", "ti:Semantic Segmentation",
                  "ti:Instance Segmentation", "ti:Panoptic Segmentation",
-                 "ti:Part Segmentation", "ti:Video Object Segmentation",
-                 "ti:3D Object", "ti:Point Cloud", "ti:RGB-D",
-                 "ti:Depth-Aware", "ti:Depth-Guided", "ti:Multi-View Object",
-                 "ti:Open-Vocabulary", "ti:Open-World", "ti:Open-Set",
-                 "ti:Zero-Shot", "ti:Few-Shot", "ti:Class-Agnostic",
-                 "ti:Universal Detection", "ti:Universal Segmentation",
-                 "ti:Promptable Detection", "ti:Promptable Segmentation",
-                 "ti:Interactive Segmentation", "ti:Referring Object",
-                 "ti:Referring Expression", "ti:Visual Grounding",
-                 "ti:Object Grounding", "ti:Phrase Grounding",
-                 "ti:Grounded Detection", "ti:Grounded Segmentation",
-                 "ti:Language-Guided", "ti:Text-Guided",
-                 "ti:Language-Conditioned", "ti:Vision-Language",
-                 "ti:Multimodal", "ti:Robotic Object", "ti:Embodied Object",
-                 "ti:Object-Centric Perception", "ti:Affordance",
-                 "ti:Unseen Object", "ti:Egocentric Object",
-                 "ti:Detection and Segmentation", "ti:Segment Anything",
-                 "ti:Grounding DINO"]
-
-        categories: ["cat:cs.CV", "cat:cs.RO", "cat:cs.AI", "cat:cs.LG"]
-
-        invert: ["ti:Autonomous", "ti:Driving", "ti:Road", "ti:Traffic",
-                 "ti:Vehicle", "ti:Pedestrian", "ti:Cyclist", "ti:Lane",
-                 "ti:Drivable", "ti:Cooperative Perception", "ti:V2X",
-                 "ti:Medical", "ti:Lesion", "ti:Tumor", "ti:Tumour",
-                 "ti:Polyp", "ti:Nodule", "ti:Organ", "ti:Cell", "ti:Nuclei",
-                 "ti:Histopathology", "ti:Pathology", "ti:Surgical",
-                 "ti:MRI", "ti:CT", "ti:X-ray", "ti:Ultrasound", "ti:Endoscopic",
-                 "ti:Remote Sensing", "ti:Earth Observation", "ti:Aerial",
-                 "ti:Satellite", "ti:SAR", "ti:Hyperspectral", "ti:Face",
-                 "ti:Facial", "ti:Emotion", "ti:Action", "ti:Activity",
-                 "ti:Gesture", "ti:Person Re-Identification", "ti:Person ReID",
-                 "ti:Crowd", "ti:Sign Language", "ti:Optical Character",
-                 "ti:Scene Text", "ti:Text Detection", "ti:Anomaly", "ti:Outlier",
-                 "ti:Novelty", "ti:Deepfake", "ti:Forgery", "ti:Malware",
-                 "ti:Intrusion", "ti:Defect", "ti:Fault", "ti:Damage", "ti:Crack",
-                 "ti:Change Detection", "ti:Salient Object", "ti:Saliency",
-                 "ti:Edge Detection", "ti:Boundary Detection", "ti:Keypoint Detection",
-                 "ti:Feature Detection"]
-
-        abs: ["abs:Object Detection", "abs:Object Recognition",
-              "abs:Object Segmentation", "abs:Semantic Segmentation",
-              "abs:Instance Segmentation", "abs:Panoptic Segmentation",
-              "abs:Part Segmentation", "abs:Video Object Segmentation",
-              "abs:3D Object", "abs:Point Cloud", "abs:RGB-D",
-              "abs:Depth-Aware", "abs:Depth-Guided", "abs:Multi-View Object",
-              "abs:Open-Vocabulary", "abs:Open-World", "abs:Open-Set",
-              "abs:Zero-Shot", "abs:Few-Shot", "abs:Class-Agnostic",
-              "abs:Universal", "abs:Promptable", "abs:Interactive Segmentation",
-              "abs:Referring", "abs:Visual Grounding", "abs:Object Grounding",
-              "abs:Phrase Grounding", "abs:Grounded", "abs:Language-Guided",
-              "abs:Text-Guided", "abs:Language-Conditioned",
-              "abs:Vision-Language", "abs:Multimodal", "abs:Robot Perception",
-              "abs:Robotic Perception", "abs:Embodied Perception",
-              "abs:Object-Centric Perception", "abs:Affordance",
-              "abs:Unseen Object", "abs:Segment Anything", "abs:Grounding DINO"]
+                 "ti:3D Object Detection", "ti:Open-Vocabulary Detection",
+                 "ti:Open-Vocabulary Segmentation",
+                 "ti:Segment Anything", "ti:Grounding DINO"]
+    
+        categories: ["cat:cs.CV", "cat:cs.RO", "cat:cs.AI"]
+    
+        invert: ["ti:Autonomous Driving", "ti:Medical", "ti:Surgical",
+                 "ti:Remote Sensing", "ti:Satellite",
+                 "ti:Agriculture", "ti:Crop", "ti:Plant",
+                 "ti:Underwater", "ti:Marine", "ti:Quantum",
+                 "ti:Anomaly Detection"]
