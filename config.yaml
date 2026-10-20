@@ -65,22 +65,47 @@ keywords:
                  "ti:Splatting"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Object Detection & Segmentation":
-        filters: ["Robot Perception", "Robotic Perception",
-                  "Embodied Perception", "Robot Manipulation",
-                  "Foundation Model", "Open-Vocabulary",
-                  "Segment Anything", "Grounding DINO"]
+        filters: ["Robotic Object Detection", "Robot Object Detection",
+                  "Object Detection for Robots", "Object Detection for Robot Manipulation",
+                  "Object Detection for Robotic Manipulation",
+                  "Object Detection for Grasping",
+                  "Embodied Object Detection",
+                  "Robotic Object Segmentation", "Object Segmentation for Robots",
+                  "Object Segmentation for Robot Manipulation",
+                  "Robotic Instance Segmentation",
+                  "Instance Segmentation for Robotic Manipulation",
+                  "Instance Segmentation for Grasping",
+                  "Robotic Semantic Segmentation",
+                  "Semantic Segmentation for Robotics",
+                  "Robotic Panoptic Segmentation",
+                  "Part Segmentation for Robotic Manipulation",
+                  "3D Instance Segmentation for Grasping",
+                  "Language-Grounded Segmentation for Grasping",
+                  "Open-Vocabulary Detection for Robots",
+                  "Open-Vocabulary Segmentation for Robots"]
     
-        titles: ["ti:Object Detection", "ti:Object Recognition",
-                 "ti:Object Segmentation", "ti:Semantic Segmentation",
-                 "ti:Instance Segmentation", "ti:Panoptic Segmentation",
-                 "ti:3D Object Detection", "ti:Open-Vocabulary Detection",
-                 "ti:Open-Vocabulary Segmentation",
-                 "ti:Segment Anything", "ti:Grounding DINO"]
+        titles: ["ti:Robotic Object Detection", "ti:Robot Object Detection",
+                 "ti:Object Detection for Robots",
+                 "ti:Object Detection for Robot Manipulation",
+                 "ti:Object Detection for Grasping",
+                 "ti:Embodied Object Detection",
+                 "ti:Robotic Object Segmentation",
+                 "ti:Object Segmentation for Robots",
+                 "ti:Robotic Instance Segmentation",
+                 "ti:Instance Segmentation for Manipulation",
+                 "ti:Instance Segmentation for Grasping",
+                 "ti:Robotic Semantic Segmentation",
+                 "ti:Semantic Segmentation for Robotics",
+                 "ti:Robotic Panoptic Segmentation",
+                 "ti:Part Segmentation for Manipulation",
+                 "ti:3D Instance Segmentation for Grasping",
+                 "ti:Segmentation for Robotic Manipulation",
+                 "ti:Segmentation for Language-Grounded Grasping",
+                 "ti:Open-Vocabulary Detection for Robots",
+                 "ti:Open-Vocabulary Segmentation for Robots"]
     
-        categories: ["cat:cs.CV", "cat:cs.RO", "cat:cs.AI"]
+        categories: ["cat:cs.RO", "cat:cs.CV", "cat:cs.AI"]
     
         invert: ["ti:Autonomous Driving", "ti:Medical", "ti:Surgical",
                  "ti:Remote Sensing", "ti:Satellite",
-                 "ti:Agriculture", "ti:Crop", "ti:Plant",
-                 "ti:Underwater", "ti:Marine", "ti:Quantum",
-                 "ti:Anomaly Detection"]
+                 "ti:Anomaly Detection", "ti:SLAM", "ti:Visual Odometry"]
