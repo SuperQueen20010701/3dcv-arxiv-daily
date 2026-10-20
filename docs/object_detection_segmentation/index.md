@@ -15,10 +15,20 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.19 - 2026.10.16_
+_Select paper in 2026.08.20 - 2026.10.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**|Yu Zhou et.al.|[2610.26860](http://arxiv.org/abs/2610.26860)|N/A|
+|**2026-10-19**|**InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation**|Yi-Chuan Huang et.al.|[2610.26853](http://arxiv.org/abs/2610.26853)|N/A|
+|**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633](http://arxiv.org/abs/2610.26633)|N/A|
+|**2026-10-19**|**SleepPairNet: Learning Multimodal Pediatric Sleep Representations with Random-Pair Cross-Attention**|Saurav Raj Pandey et.al.|[2610.26628](http://arxiv.org/abs/2610.26628)|N/A|
+|**2026-10-19**|**Degree Bounds for Separating Polynomial and Neural Invariants for Point Clouds**|Snir Hordan et.al.|[2610.26612](http://arxiv.org/abs/2610.26612)|N/A|
+|**2026-10-19**|**ReInsVLN: Revisiting Historical Evidence for Training-Free Vision-and-Language Navigation**|Siwei Cheng et.al.|[2610.26545](http://arxiv.org/abs/2610.26545)|N/A|
+|**2026-10-19**|**LaMER: Language-Conditioned Multi-Expert Routing for Weakly Supervised Referring Expression Comprehension**|Yu Yu Chang et.al.|[2610.26404](http://arxiv.org/abs/2610.26404)|N/A|
+|**2026-10-19**|**HGASurv: Hierarchical Granularity-Aware Integration for Multimodal Survival Prediction**|Peike Yu et.al.|[2610.26357](http://arxiv.org/abs/2610.26357)|N/A|
+|**2026-10-19**|**Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models**|Alyson Ranucci et.al.|[2610.26226](http://arxiv.org/abs/2610.26226)|N/A|
+|**2026-10-19**|**Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection**|Keyhan Rayati et.al.|[2610.26170](http://arxiv.org/abs/2610.26170)|N/A|
 |**2026-10-16**|**MOSS: Multimodal Origami Swamp Robot System**|T. Lan et.al.|[2610.23813](http://arxiv.org/abs/2610.23813)|N/A|
 |**2026-10-16**|**FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization**|Syed Md. Ahnaf Hasan et.al.|[2610.23705](http://arxiv.org/abs/2610.23705)|N/A|
 |**2026-10-16**|**FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity**|Yiqun Zhao et.al.|[2610.23659](http://arxiv.org/abs/2610.23659)|N/A|
