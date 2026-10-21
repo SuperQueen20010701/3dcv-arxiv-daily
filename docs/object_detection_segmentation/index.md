@@ -15,13 +15,12 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.08.20 - 2026.10.19_
+_Select paper in 2026.08.21 - 2026.10.20_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-19**|**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**|Yu Zhou et.al.|[2610.26860](http://arxiv.org/abs/2610.26860)|N/A|
 |**2026-10-19**|**InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation**|Yi-Chuan Huang et.al.|[2610.26853](http://arxiv.org/abs/2610.26853)|N/A|
-|**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633](http://arxiv.org/abs/2610.26633)|N/A|
 |**2026-10-19**|**SleepPairNet: Learning Multimodal Pediatric Sleep Representations with Random-Pair Cross-Attention**|Saurav Raj Pandey et.al.|[2610.26628](http://arxiv.org/abs/2610.26628)|N/A|
 |**2026-10-19**|**Degree Bounds for Separating Polynomial and Neural Invariants for Point Clouds**|Snir Hordan et.al.|[2610.26612](http://arxiv.org/abs/2610.26612)|N/A|
 |**2026-10-19**|**ReInsVLN: Revisiting Historical Evidence for Training-Free Vision-and-Language Navigation**|Siwei Cheng et.al.|[2610.26545](http://arxiv.org/abs/2610.26545)|N/A|
@@ -146,7 +145,6 @@ _Select paper in 2026.08.20 - 2026.10.19_
 |**2026-09-30**|**ShieldCLIP: Selective Safety Alignment for Harmful Content Mitigation in Multimodal Foundation Models**|Tobia Poppi et.al.|[2609.39688](http://arxiv.org/abs/2609.39688)|N/A|
 |**2026-09-29**|**GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection**|Taufiq Ahmed et.al.|[2609.38116](http://arxiv.org/abs/2609.38116)|N/A|
 |**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Bingxuan Li et.al.|[2609.38078](http://arxiv.org/abs/2609.38078)|N/A|
-|**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|N/A|
 |**2026-09-29**|**From Unity Simulation to Diffusion-Based Augmentation: Quantifying Dataset Balance for Robust Object Detection**|Mohamed Benkedadra et.al.|[2609.38010](http://arxiv.org/abs/2609.38010)|N/A|
 |**2026-09-29**|**TabFM: A Zero-Shot Foundation Model for Tabular Data**|Weihao Kong et.al.|[2609.37959](http://arxiv.org/abs/2609.37959)|N/A|
 |**2026-09-29**|**EpiCon: Collective Agent Learning through Co-Evolving Multimodal Memory**|Ziyun Zeng et.al.|[2609.37923](http://arxiv.org/abs/2609.37923)|N/A|
