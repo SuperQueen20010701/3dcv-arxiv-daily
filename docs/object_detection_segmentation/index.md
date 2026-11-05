@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.04 - 2026.11.03_
+_Select paper in 2026.09.05 - 2026.11.04_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
