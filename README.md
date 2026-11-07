@@ -1,4 +1,4 @@
-## Select paper in 2026.09.06 - 2026.11.05
+## Select paper in 2026.09.07 - 2026.11.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -133,7 +133,7 @@
 |**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493](http://arxiv.org/abs/2609.08493)|N/A|
 |**2026-09-09**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260906---20261105>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260907---20261105>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -189,7 +189,7 @@
 |**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|N/A|
 |**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260906---20261105>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260907---20261105>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -309,7 +309,7 @@
 |**2026-09-07**|**TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases**|Dominik A. Kloepfer et.al.|[2609.07373](http://arxiv.org/abs/2609.07373)|N/A|
 |**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](http://arxiv.org/abs/2609.07274)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260906---20261105>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260907---20261105>back to top</a>)</p>
 
 ## Image Matching
 
@@ -332,9 +332,8 @@
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|N/A|
 |**2026-09-25**|**Facial classification Using Hybrid Quantum Machine Learning**|Roshan Babu Bandlapalli et.al.|[2609.31915](http://arxiv.org/abs/2609.31915)|N/A|
 |**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
-|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260906---20261105>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260907---20261105>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -565,9 +564,8 @@
 |**2026-09-07**|**From Explicit References to Scene Manifolds: Distributional Fidelity and Realism for Radiance Field Quality Assessment**|Saeed Mahmoudpour et.al.|[2609.07346](http://arxiv.org/abs/2609.07346)|N/A|
 |**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](http://arxiv.org/abs/2609.07274)|N/A|
 |**2026-09-07**|**Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting**|Jie Lu et.al.|[2609.07231](http://arxiv.org/abs/2609.07231)|N/A|
-|**2026-09-06**|**MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting**|Chengkai Wang et.al.|[2609.06874](http://arxiv.org/abs/2609.06874)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260906---20261105>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260907---20261105>back to top</a>)</p>
 
 ## Object Detection & Segmentation
 
@@ -804,7 +802,7 @@
 |**2026-09-15**|**RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views**|Yunxiang Zhang et.al.|[2609.16936](http://arxiv.org/abs/2609.16936)|N/A|
 |**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](http://arxiv.org/abs/2609.16934)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260906---20261105>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260907---20261105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

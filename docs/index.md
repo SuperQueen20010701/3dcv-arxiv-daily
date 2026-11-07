@@ -12,7 +12,7 @@ layout: default
   <a href="object_detection_segmentation/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">Object Detection & Segmentation</a>
 </div>
 
-## Select paper in 2026.09.06 - 2026.11.05
+## Select paper in 2026.09.07 - 2026.11.05
 
 ## 3D Reconstruction
 
@@ -329,7 +329,6 @@ layout: default
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|N/A|
 |**2026-09-25**|**Facial classification Using Hybrid Quantum Machine Learning**|Roshan Babu Bandlapalli et.al.|[2609.31915](http://arxiv.org/abs/2609.31915)|N/A|
 |**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
-|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|N/A|
 
 ## NeRF & Gaussian
 
@@ -560,7 +559,6 @@ layout: default
 |**2026-09-07**|**From Explicit References to Scene Manifolds: Distributional Fidelity and Realism for Radiance Field Quality Assessment**|Saeed Mahmoudpour et.al.|[2609.07346](http://arxiv.org/abs/2609.07346)|N/A|
 |**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](http://arxiv.org/abs/2609.07274)|N/A|
 |**2026-09-07**|**Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting**|Jie Lu et.al.|[2609.07231](http://arxiv.org/abs/2609.07231)|N/A|
-|**2026-09-06**|**MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting**|Chengkai Wang et.al.|[2609.06874](http://arxiv.org/abs/2609.06874)|N/A|
 
 ## Object Detection & Segmentation
 
