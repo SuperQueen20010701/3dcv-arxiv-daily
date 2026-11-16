@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.15 - 2026.11.12_
+_Select paper in 2026.09.16 - 2026.11.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -239,14 +239,4 @@ _Select paper in 2026.09.15 - 2026.11.12_
 |**2026-09-16**|**The Mirage of Calibrated Confidence: Trajectory-Independence of Verbalized Confidence in Vision-Language Models**|Jisoo Yang et.al.|[2609.18453](http://arxiv.org/abs/2609.18453)|N/A|
 |**2026-09-16**|**DR.WILSS: Diffusion-Based Replay for Weakly Supervised Continual Semantic Segmentation**|Leon Arthur Marx et.al.|[2609.18444](http://arxiv.org/abs/2609.18444)|N/A|
 |**2026-09-16**|**Visual Input and Its Framing Affect Attribute-based Descriptions Produced by Large Vision-Language Models**|Xiaomeng Wang et.al.|[2609.18345](http://arxiv.org/abs/2609.18345)|N/A|
-|**2026-09-15**|**ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation**|Vicky Feliren et.al.|[2609.17499](http://arxiv.org/abs/2609.17499)|N/A|
-|**2026-09-15**|**BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models**|Yihui Peng et.al.|[2609.17443](http://arxiv.org/abs/2609.17443)|N/A|
-|**2026-09-15**|**Vroom-Vroom at SHROOM-Visions: A Multi-Judge Committee for Detecting Hallucinated Spans in Vision-Language Outputs**|Toqeer Ehsan et.al.|[2609.17327](http://arxiv.org/abs/2609.17327)|N/A|
-|**2026-09-15**|**Semantic-Spatial Agreement Verification for Mitigating Object Hallucination in Multimodal Large Language Models**|Ziheng Ren et.al.|[2609.17269](http://arxiv.org/abs/2609.17269)|N/A|
-|**2026-09-15**|**Multimodal Cultural Heritage Architectural Style Classification for Residential Buildings in the UAE Based on CLIP Embeddings and SVM**|Ahmed Ammar Kubba et.al.|[2609.17181](http://arxiv.org/abs/2609.17181)|N/A|
-|**2026-09-15**|**MOCC-R1: Reinforcing Reasoning-Response Consistency for Multimodal Counselor Response Generation**|Wenjie Zheng et.al.|[2609.17180](http://arxiv.org/abs/2609.17180)|N/A|
-|**2026-09-15**|**Sample-Conditioned Representation Selection for Audio Few-Shot Learning**|Fengrui Liu et.al.|[2609.17076](http://arxiv.org/abs/2609.17076)|N/A|
-|**2026-09-15**|**SWIM: Vision-Language-Grounded Soft Whole-Body Interactive Manipulation**|Tingcong Liu et.al.|[2609.17035](http://arxiv.org/abs/2609.17035)|N/A|
-|**2026-09-15**|**RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views**|Yunxiang Zhang et.al.|[2609.16936](http://arxiv.org/abs/2609.16936)|N/A|
-|**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](http://arxiv.org/abs/2609.16934)|N/A|
 
