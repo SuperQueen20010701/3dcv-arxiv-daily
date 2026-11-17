@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.16 - 2026.11.13_
+_Select paper in 2026.09.17 - 2026.11.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -229,14 +229,4 @@ _Select paper in 2026.09.16 - 2026.11.13_
 |**2026-09-17**|**CitySTAR: Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding**|Shuai Zhang et.al.|[2609.19911](http://arxiv.org/abs/2609.19911)|N/A|
 |**2026-09-17**|**Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning**|Haoqiang Kang et.al.|[2609.19878](http://arxiv.org/abs/2609.19878)|N/A|
 |**2026-09-17**|**HEROIC: Heterogeneous Evidential Reasoning for Open-Vocabulary Identification and Cross-Robot Collaboration**|Mihir Chauhan et.al.|[2609.19803](http://arxiv.org/abs/2609.19803)|N/A|
-|**2026-09-16**|**MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education**|Luyao Zhu et.al.|[2609.19088](http://arxiv.org/abs/2609.19088)|N/A|
-|**2026-09-16**|**Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection**|Girish A. Koushik et.al.|[2609.18860](http://arxiv.org/abs/2609.18860)|N/A|
-|**2026-09-16**|**AdaGeoVLN: Selective Geometry Across Representation Depth and Navigation Time for Vision-Language Navigation**|Quan-Dung Pham et.al.|[2609.18789](http://arxiv.org/abs/2609.18789)|N/A|
-|**2026-09-16**|**QMSR: Query-Conditioned Mask-wise Expert Routing for Robust Open-Vocabulary Underwater Object Retrieval**|Fuming Zhang et.al.|[2609.18752](http://arxiv.org/abs/2609.18752)|N/A|
-|**2026-09-16**|**Calibrated Probabilistic Obstruction Reasoning with Vision-Language Models for Grasping in Clutter**|Thanh-Tuan Tran et.al.|[2609.18718](http://arxiv.org/abs/2609.18718)|N/A|
-|**2026-09-16**|**GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation**|Kailing Li et.al.|[2609.18581](http://arxiv.org/abs/2609.18581)|N/A|
-|**2026-09-16**|**Semantic-ITC: A Frame-wise Indoor Mobile Laser Scanning Dataset and Benchmark for Semantic Segmentation**|Haiyang Wu et.al.|[2609.18493](http://arxiv.org/abs/2609.18493)|N/A|
-|**2026-09-16**|**The Mirage of Calibrated Confidence: Trajectory-Independence of Verbalized Confidence in Vision-Language Models**|Jisoo Yang et.al.|[2609.18453](http://arxiv.org/abs/2609.18453)|N/A|
-|**2026-09-16**|**DR.WILSS: Diffusion-Based Replay for Weakly Supervised Continual Semantic Segmentation**|Leon Arthur Marx et.al.|[2609.18444](http://arxiv.org/abs/2609.18444)|N/A|
-|**2026-09-16**|**Visual Input and Its Framing Affect Attribute-based Descriptions Produced by Large Vision-Language Models**|Xiaomeng Wang et.al.|[2609.18345](http://arxiv.org/abs/2609.18345)|N/A|
 
