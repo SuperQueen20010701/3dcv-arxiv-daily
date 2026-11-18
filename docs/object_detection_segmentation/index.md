@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.17 - 2026.11.16_
+_Select paper in 2026.09.18 - 2026.11.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -219,14 +219,4 @@ _Select paper in 2026.09.17 - 2026.11.16_
 |**2026-09-18**|**ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction**|Jinning Liang et.al.|[2609.21755](http://arxiv.org/abs/2609.21755)|N/A|
 |**2026-09-18**|**NeuRIO: A Streaming Neural Estimator for Zero-Shot Sim-to-Real Multi-Robot Relative Inertial Odometry**|Zhehan Li et.al.|[2609.21707](http://arxiv.org/abs/2609.21707)|N/A|
 |**2026-09-18**|**DRT: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning**|Wan Xu et.al.|[2609.21675](http://arxiv.org/abs/2609.21675)|N/A|
-|**2026-09-17**|**SenseFuse: Label-Free Fusion of Image and Shape Encoders for Open-Vocabulary 3D Instance Segmentation**|Euiseok Han et.al.|[2609.20475](http://arxiv.org/abs/2609.20475)|N/A|
-|**2026-09-17**|**Fingerprinting Multimodal Large Language Models**|Chao Huang et.al.|[2609.20457](http://arxiv.org/abs/2609.20457)|N/A|
-|**2026-09-17**|**EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute**|Björn Ellensohn et.al.|[2609.20348](http://arxiv.org/abs/2609.20348)|N/A|
-|**2026-09-17**|**AgriScope: Pixel-Grounded Multimodal Understanding for Agricultural Images**|Abderrahmene Boudiaf et.al.|[2609.20325](http://arxiv.org/abs/2609.20325)|N/A|
-|**2026-09-17**|**Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models**|Farooq Ahmad Wani et.al.|[2609.20139](http://arxiv.org/abs/2609.20139)|N/A|
-|**2026-09-17**|**GPT-6-Astra in a Navigation Workflow: Behavioral Analysis in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.20116](http://arxiv.org/abs/2609.20116)|N/A|
-|**2026-09-17**|**E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews**|Haoshen Wang et.al.|[2609.20001](http://arxiv.org/abs/2609.20001)|N/A|
-|**2026-09-17**|**CitySTAR: Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding**|Shuai Zhang et.al.|[2609.19911](http://arxiv.org/abs/2609.19911)|N/A|
-|**2026-09-17**|**Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning**|Haoqiang Kang et.al.|[2609.19878](http://arxiv.org/abs/2609.19878)|N/A|
-|**2026-09-17**|**HEROIC: Heterogeneous Evidential Reasoning for Open-Vocabulary Identification and Cross-Robot Collaboration**|Mihir Chauhan et.al.|[2609.19803](http://arxiv.org/abs/2609.19803)|N/A|
 
