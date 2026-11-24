@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.23 - 2026.11.20_
+_Select paper in 2026.09.24 - 2026.11.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -179,14 +179,4 @@ _Select paper in 2026.09.23 - 2026.11.20_
 |**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|N/A|
 |**2026-09-24**|**ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models**|Xunkai Li et.al.|[2609.29398](http://arxiv.org/abs/2609.29398)|N/A|
 |**2026-09-24**|**Domain Recentering and Confidence-Weighted Prior Calibration for Vision-Language Models**|Youngeun Seol et.al.|[2609.29358](http://arxiv.org/abs/2609.29358)|N/A|
-|**2026-09-23**|**Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction**|Zilin Fang et.al.|[2609.28467](http://arxiv.org/abs/2609.28467)|N/A|
-|**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360](http://arxiv.org/abs/2609.28360)|N/A|
-|**2026-09-23**|**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**|Arman Taghizadeh et.al.|[2609.28342](http://arxiv.org/abs/2609.28342)|N/A|
-|**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Zerui Li et.al.|[2609.28296](http://arxiv.org/abs/2609.28296)|N/A|
-|**2026-09-23**|**ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus**|Li Zeng et.al.|[2609.28239](http://arxiv.org/abs/2609.28239)|N/A|
-|**2026-09-23**|**From Alignment to Fusion in 3D Vision-Language**|Xueqi Qiu et.al.|[2609.28222](http://arxiv.org/abs/2609.28222)|N/A|
-|**2026-09-23**|**Confidence Falls Short: Asymmetric Certainty Gains from Optimization Hinder Multimodal Classification**|Longfei Huang et.al.|[2609.28165](http://arxiv.org/abs/2609.28165)|N/A|
-|**2026-09-23**|**Depth-Guided Contrastive Learning for 2D Representations with 3D Spatial Awareness**|Liang Zeng et.al.|[2609.28159](http://arxiv.org/abs/2609.28159)|N/A|
-|**2026-09-23**|**LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations**|Sandra Arcos-Holzinger et.al.|[2609.28086](http://arxiv.org/abs/2609.28086)|N/A|
-|**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|N/A|
 
