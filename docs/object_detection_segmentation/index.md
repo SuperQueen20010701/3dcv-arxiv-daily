@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.24 - 2026.11.23_
+_Select paper in 2026.09.25 - 2026.11.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -170,13 +170,4 @@ _Select paper in 2026.09.24 - 2026.11.23_
 |**2026-09-25**|**OpenVAM: Open-World Visual Attention Modeling with VLMs**|Kiana Hooshanfar et.al.|[2609.31364](http://arxiv.org/abs/2609.31364)|N/A|
 |**2026-09-25**|**Open Vocabulary Domain Unlearning**|Sumanth Udupa et.al.|[2609.31356](http://arxiv.org/abs/2609.31356)|N/A|
 |**2026-09-25**|**Improving Visual Sensitivity of LLMs on Multimodal Machine Translation with Metric-based Loss Weighting**|Paweł Mąka et.al.|[2609.31169](http://arxiv.org/abs/2609.31169)|N/A|
-|**2026-09-24**|**SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data**|Wenhao Li et.al.|[2609.30238](http://arxiv.org/abs/2609.30238)|N/A|
-|**2026-09-24**|**The Alignment Illusion in Multimodal Large Language Models**|Hong-Han Wang et.al.|[2609.30210](http://arxiv.org/abs/2609.30210)|N/A|
-|**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|N/A|
-|**2026-09-24**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861](http://arxiv.org/abs/2609.29861)|N/A|
-|**2026-09-24**|**C3M: Cross-Session Multimodal Memory Maintenance for Long-Horizon Tasks**|Xueshu Chen et.al.|[2609.29735](http://arxiv.org/abs/2609.29735)|N/A|
-|**2026-09-24**|**A Multimodal Dataset for Survival Prediction in Resected Pancreatic Ductal Adenocarcinoma**|Anh-Tien Nguyen et.al.|[2609.29726](http://arxiv.org/abs/2609.29726)|N/A|
-|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|N/A|
-|**2026-09-24**|**ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models**|Xunkai Li et.al.|[2609.29398](http://arxiv.org/abs/2609.29398)|N/A|
-|**2026-09-24**|**Domain Recentering and Confidence-Weighted Prior Calibration for Vision-Language Models**|Youngeun Seol et.al.|[2609.29358](http://arxiv.org/abs/2609.29358)|N/A|
 
