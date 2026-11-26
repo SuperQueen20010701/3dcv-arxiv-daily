@@ -15,7 +15,7 @@ title: Object Detection & Segmentation
 
 ## Object Detection & Segmentation
 
-_Select paper in 2026.09.25 - 2026.11.24_
+_Select paper in 2026.09.26 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -162,12 +162,4 @@ _Select paper in 2026.09.25 - 2026.11.24_
 |**2026-09-28**|**Beyond Saying Less: Fine-Grained Alignment for Informative and Faithful Vision-Language Models**|Xingming Long et.al.|[2609.35294](http://arxiv.org/abs/2609.35294)|N/A|
 |**2026-09-28**|**Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment**|Shunchang Liu et.al.|[2609.35291](http://arxiv.org/abs/2609.35291)|N/A|
 |**2026-09-28**|**Domain-adaptive Zero-Shot Image Enhancement via Locality-Constrained Diffusion Guidance**|Theresa Neubauer et.al.|[2609.35289](http://arxiv.org/abs/2609.35289)|N/A|
-|**2026-09-25**|**EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models**|Kunxiong Zhu et.al.|[2609.31551](http://arxiv.org/abs/2609.31551)|N/A|
-|**2026-09-25**|**Diagnosing the Sources of Compositional Failure in Vision-Language Models: A Controlled Analysis**|Mona Gandhi et.al.|[2609.31456](http://arxiv.org/abs/2609.31456)|N/A|
-|**2026-09-25**|**ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs**|Junyi Gao et.al.|[2609.31448](http://arxiv.org/abs/2609.31448)|N/A|
-|**2026-09-25**|**AxonSynth: Domain-Randomized Synthetic Data for Zero-Shot 3D Axon Segmentation in Light-Sheet Microscopy**|Edward Gaibor et.al.|[2609.31431](http://arxiv.org/abs/2609.31431)|N/A|
-|**2026-09-25**|**Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers**|Mert İncidelen et.al.|[2609.31403](http://arxiv.org/abs/2609.31403)|N/A|
-|**2026-09-25**|**OpenVAM: Open-World Visual Attention Modeling with VLMs**|Kiana Hooshanfar et.al.|[2609.31364](http://arxiv.org/abs/2609.31364)|N/A|
-|**2026-09-25**|**Open Vocabulary Domain Unlearning**|Sumanth Udupa et.al.|[2609.31356](http://arxiv.org/abs/2609.31356)|N/A|
-|**2026-09-25**|**Improving Visual Sensitivity of LLMs on Multimodal Machine Translation with Metric-based Loss Weighting**|Paweł Mąka et.al.|[2609.31169](http://arxiv.org/abs/2609.31169)|N/A|
 
